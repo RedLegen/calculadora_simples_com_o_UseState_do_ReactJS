@@ -17,6 +17,8 @@ button {
 
   color: #FFF;
 
+  font-weight: bold;
+
   margin-top: 20px;
   margin-right: 10px;
 
@@ -46,6 +48,11 @@ button {
 .somar {
   background-color: #234321;
   color: #FFF;
+}
+
+.clear {
+  background-color: #F5F5F5;
+  color: #000;
 }
 
 p {
