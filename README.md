@@ -1,4 +1,4 @@
-# Calculadora simple 
+# Calculadora simples
 
 uma calculadora feita com ReactJS apenas para estudos
 
